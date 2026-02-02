@@ -2,6 +2,7 @@
 
 namespace App\Mail;
 
+use App\Models\Setting;
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
 use Illuminate\Mail\Mailables\Content;
@@ -13,20 +14,25 @@ class OtpCodeMail extends Mailable
 {
     use Queueable, SerializesModels;
 
+    private string $appName;
+
     public function __construct(
         public string $code,
         public string $type,
         public Carbon $expiresAt,
         public ?string $name = null,
         public ?string $logoUrl = null
-    ) {}
+    ) {
+        // Get app name from settings, fallback to config
+        $this->appName = Setting::where('key', 'app_name')->value('value') ?? config('app.name');
+    }
 
     public function envelope(): Envelope
     {
         $title = $this->type === 'reset_password' ? 'Reset Password OTP' : 'Email Verification OTP';
 
         return new Envelope(
-            subject: $title.' - '.config('app.name'),
+            subject: $title.' - '.$this->appName,
         );
     }
 
@@ -39,7 +45,7 @@ class OtpCodeMail extends Mailable
                 'type' => $this->type,
                 'expiresAt' => $this->expiresAt,
                 'name' => $this->name,
-                'appName' => config('app.name'),
+                'appName' => $this->appName,
                 'logoUrl' => $this->logoUrl,
             ],
         );

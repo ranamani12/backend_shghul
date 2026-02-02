@@ -13,7 +13,7 @@
               <td style="vertical-align: middle;">
                 <div style="display: flex; align-items: center; gap: 14px;">
                   @if(!empty($logoUrl))
-                    <img src="{{ $logoUrl }}" alt="{{ $appName }}" style="width: 48px; height: 48px; object-fit: cover; border-radius: 12px; border: 1px solid rgba(255,255,255,0.3); background: #ffffff;">
+                    <img src="{{ $logoUrl }}" alt="{{ $appName }}" style="max-width: 120px; max-height: 48px; object-fit: contain; border-radius: 8px;">
                   @endif
                   <div>
                     <div style="font-size: 18px; font-weight: 700; color: #ffffff;">{{ $appName }}</div>
