@@ -298,7 +298,9 @@ class AuthController extends Controller
     private function sendOtpEmail(Otp $otp, ?string $name = null): bool
     {
         try {
-            $logoUrl = Setting::where('key', 'app_logo')->value('value');
+            // Use dark theme logo (light-colored) for dark email header background
+            $logoUrl = Setting::where('key', 'app_logo_dark')->value('value')
+                ?? Setting::where('key', 'app_logo')->value('value');
 
             Mail::to($otp->email)->send(new OtpCodeMail(
                 $otp->code,

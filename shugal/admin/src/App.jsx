@@ -16,6 +16,7 @@ import Transactions from './pages/Transactions'
 import ActivityLogs from './pages/ActivityLogs'
 import Settings from './pages/Settings'
 import ResumeQuestions from './pages/ResumeQuestions'
+import DeletionRequests from './pages/DeletionRequests'
 
 function App() {
   return (
@@ -43,6 +44,7 @@ function App() {
           <Route path="activity-logs" element={<ActivityLogs />} />
           <Route path="settings" element={<Settings />} />
           <Route path="resume-questions" element={<ResumeQuestions />} />
+          <Route path="deletion-requests" element={<DeletionRequests />} />
         </Route>
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>

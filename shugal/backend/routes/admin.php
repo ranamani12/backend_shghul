@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Api\Admin\AccountDeletionRequestController;
 use App\Http\Controllers\Api\Admin\ApplicationController;
 use App\Http\Controllers\Api\Admin\CandidateController;
 use App\Http\Controllers\Api\Admin\InterviewController;
@@ -68,4 +69,8 @@ Route::middleware(['auth:sanctum', 'admin'])->prefix('admin')->group(function ()
     Route::put('countries/{country}', [CountryController::class, 'update']);
     Route::delete('countries/{country}', [CountryController::class, 'destroy']);
     Route::post('countries/upload', [CountryController::class, 'uploadFlag']);
+
+    Route::get('deletion-requests', [AccountDeletionRequestController::class, 'index']);
+    Route::get('deletion-requests/{accountDeletionRequest}', [AccountDeletionRequestController::class, 'show']);
+    Route::post('deletion-requests/{accountDeletionRequest}/process', [AccountDeletionRequestController::class, 'process']);
 });

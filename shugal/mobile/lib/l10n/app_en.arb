@@ -1,0 +1,1917 @@
+{
+  "@@locale": "en",
+  "appName": "Shugal",
+  "@appName": {
+    "description": "Application name"
+  },
+  "splashFindYourDreamJob": "Find Your Dream Job",
+  "@splashFindYourDreamJob": {
+    "description": "Splash screen tagline"
+  },
+  "skip": "Skip",
+  "@skip": {
+    "description": "Skip button text"
+  },
+  "next": "Next",
+  "@next": {
+    "description": "Next button text"
+  },
+  "getStarted": "Get Started",
+  "@getStarted": {
+    "description": "Get started button text"
+  },
+  "onboardingPage1Title": "Find Your Dream Job",
+  "@onboardingPage1Title": {
+    "description": "First onboarding page title"
+  },
+  "onboardingPage1Description": "Discover thousands of job opportunities tailored to your skills and interests.",
+  "@onboardingPage1Description": {
+    "description": "First onboarding page description"
+  },
+  "onboardingPage2Title": "Connect with Companies",
+  "@onboardingPage2Title": {
+    "description": "Second onboarding page title"
+  },
+  "onboardingPage2Description": "Build your professional network and connect directly with top employers.",
+  "@onboardingPage2Description": {
+    "description": "Second onboarding page description"
+  },
+  "onboardingPage3Title": "Get Hired Faster",
+  "@onboardingPage3Title": {
+    "description": "Third onboarding page title"
+  },
+  "onboardingPage3Description": "Create your profile, showcase your skills, and get noticed by recruiters.",
+  "@onboardingPage3Description": {
+    "description": "Third onboarding page description"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home navigation label"
+  },
+  "add": "Add",
+  "@add": {
+    "description": "Add navigation label"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile navigation label"
+  },
+  "searchJobs": "Search jobs...",
+  "@searchJobs": {
+    "description": "Search bar placeholder"
+  },
+  "welcomeToShugal": "Welcome to Shugal",
+  "@welcomeToShugal": {
+    "description": "Welcome message"
+  },
+  "browseJobsAsGuest": "Browse jobs as a guest or sign in to unlock more features",
+  "@browseJobsAsGuest": {
+    "description": "Guest mode description"
+  },
+  "getTheFullExperience": "Get the Full Experience",
+  "@getTheFullExperience": {
+    "description": "Login prompt title"
+  },
+  "signInToUnlock": "Sign in or create an account to apply for jobs, save favorites, and connect with employers.",
+  "@signInToUnlock": {
+    "description": "Login prompt description"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+  "register": "Register",
+  "@register": {
+    "description": "Register button text"
+  },
+  "latestJobs": "Latest Jobs",
+  "@latestJobs": {
+    "description": "Latest jobs section title"
+  },
+  "viewDetails": "View Details",
+  "@viewDetails": {
+    "description": "View details button text"
+  },
+  "pleaseLoginToViewNotifications": "Please login to view notifications",
+  "@pleaseLoginToViewNotifications": {
+    "description": "Notification login prompt"
+  },
+  "loginRequiredToPost": "Login required to post jobs or content",
+  "@loginRequiredToPost": {
+    "description": "Add content login prompt"
+  },
+  "loginRequiredToApply": "Login to apply for jobs",
+  "@loginRequiredToApply": {
+    "description": "Apply job login prompt"
+  },
+  "loginToSaveJobs": "Login to save jobs",
+  "@loginToSaveJobs": {
+    "description": "Save job login prompt"
+  },
+  "guestMode": "Guest Mode",
+  "@guestMode": {
+    "description": "Guest mode label"
+  },
+  "youAreBrowsingAsGuest": "You are browsing as a guest",
+  "@youAreBrowsingAsGuest": {
+    "description": "Guest mode description"
+  },
+  "loginOrRegister": "Login or Register",
+  "@loginOrRegister": {
+    "description": "Login or register button text"
+  },
+  "addNewContent": "Add New Content",
+  "@addNewContent": {
+    "description": "Add content section title"
+  },
+  "loginScreenComingSoon": "Login screen coming soon",
+  "@loginScreenComingSoon": {
+    "description": "Coming soon message"
+  },
+  "registerScreenComingSoon": "Register screen coming soon",
+  "@registerScreenComingSoon": {
+    "description": "Coming soon message"
+  },
+  "loginRequired": "Login Required",
+  "@loginRequired": {
+    "description": "Login required dialog title"
+  },
+  "pleaseLoginToAccess": "Please login to access {feature}.",
+  "@pleaseLoginToAccess": {
+    "description": "Please login message with feature",
+    "placeholders": {
+      "feature": {
+        "type": "String",
+        "example": "notifications"
+      }
+    }
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "chooseLanguage": "Choose Language",
+  "@chooseLanguage": {
+    "description": "Language dialog title"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+  "arabic": "Arabic",
+  "@arabic": {
+    "description": "Arabic language option"
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Save button text"
+  },
+  "languageChanged": "Language changed",
+  "@languageChanged": {
+    "description": "Language changed snackbar message"
+  },
+  "welcomeBack": "Welcome back",
+  "@welcomeBack": {
+    "description": "Welcome back greeting"
+  },
+  "signInToYourAccount": "Sign in to Your Account",
+  "@signInToYourAccount": {
+    "description": "Sign in subtitle"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+  "enterEmailAddress": "Enter Email Address",
+  "@enterEmailAddress": {
+    "description": "Email field placeholder"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  "enterPassword": "Enter Password",
+  "@enterPassword": {
+    "description": "Password field placeholder"
+  },
+  "rememberMe": "Remember me",
+  "@rememberMe": {
+    "description": "Remember me checkbox label"
+  },
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": {
+    "description": "Forgot password link"
+  },
+  "dontHaveAccount": "Don't have an account?",
+  "@dontHaveAccount": {
+    "description": "Don't have account text"
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "Sign up link text"
+  },
+  "pleaseFillAllFields": "Please fill in all fields",
+  "@pleaseFillAllFields": {
+    "description": "Validation error message"
+  },
+  "loginFailed": "Login failed. Please try again.",
+  "@loginFailed": {
+    "description": "Login failed message"
+  },
+  "company": "Company",
+  "@company": {
+    "description": "Company role label"
+  },
+  "jobSeeker": "Job Seeker",
+  "@jobSeeker": {
+    "description": "Job seeker role label"
+  },
+  "letsGetYouStarted": "Let's get you started",
+  "@letsGetYouStarted": {
+    "description": "Register screen title"
+  },
+  "fillDetailsToCreateAccount": "Please fill in your details to create an account",
+  "@fillDetailsToCreateAccount": {
+    "description": "Register screen subtitle"
+  },
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {
+    "description": "Phone number field label"
+  },
+  "companyName": "Company Name",
+  "@companyName": {
+    "description": "Company name field label"
+  },
+  "enterCompanyName": "Enter Company Name",
+  "@enterCompanyName": {
+    "description": "Company name field placeholder"
+  },
+  "name": "Name",
+  "@name": {
+    "description": "Name field label"
+  },
+  "enterYourName": "Enter Your Name",
+  "@enterYourName": {
+    "description": "Name field placeholder"
+  },
+  "dateOfBirth": "Date of Birth",
+  "@dateOfBirth": {
+    "description": "Date of birth field label"
+  },
+  "select": "Select",
+  "@select": {
+    "description": "Select placeholder"
+  },
+  "nationality": "Nationality",
+  "@nationality": {
+    "description": "Nationality field label"
+  },
+  "choose": "Choose",
+  "@choose": {
+    "description": "Choose placeholder"
+  },
+  "residentsCountry": "Residents Country",
+  "@residentsCountry": {
+    "description": "Residence country field label"
+  },
+  "major": "Major",
+  "@major": {
+    "description": "Major field label"
+  },
+  "educationalLevel": "Educational Level",
+  "@educationalLevel": {
+    "description": "Education level field label"
+  },
+  "yearsOfExperience": "Years of Experience",
+  "@yearsOfExperience": {
+    "description": "Experience field label"
+  },
+  "haveAnAccount": "Have an account?",
+  "@haveAnAccount": {
+    "description": "Have account text"
+  },
+  "pleaseEnterEmail": "Please enter your email",
+  "@pleaseEnterEmail": {
+    "description": "Email validation error"
+  },
+  "pleaseEnterPhone": "Please enter your phone number",
+  "@pleaseEnterPhone": {
+    "description": "Phone validation error"
+  },
+  "pleaseEnterCompanyName": "Please enter company name",
+  "@pleaseEnterCompanyName": {
+    "description": "Company name validation error"
+  },
+  "pleaseEnterName": "Please enter your name",
+  "@pleaseEnterName": {
+    "description": "Name validation error"
+  },
+  "registrationFailed": "Registration failed. Please try again.",
+  "@registrationFailed": {
+    "description": "Registration failed message"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading text"
+  },
+  "search": "Search...",
+  "@search": {
+    "description": "Search placeholder"
+  },
+  "noItemsFound": "No items found",
+  "@noItemsFound": {
+    "description": "No items found message"
+  },
+  "done": "Done",
+  "@done": {
+    "description": "Done button text"
+  },
+  "selected": "selected",
+  "@selected": {
+    "description": "Selected suffix text"
+  },
+  "welcomeGuest": "Welcome, Guest!",
+  "@welcomeGuest": {
+    "description": "Welcome guest text"
+  },
+  "loginToAccessAllFeatures": "Login to access all features",
+  "@loginToAccessAllFeatures": {
+    "description": "Login prompt for guest"
+  },
+  "customerServiceSupport": "Customer Service Support",
+  "@customerServiceSupport": {
+    "description": "Customer service menu item"
+  },
+  "privacyPolicy": "Privacy Policy",
+  "@privacyPolicy": {
+    "description": "Privacy policy menu item"
+  },
+  "loginRequiredToAccessLabel": "Login required to access:",
+  "@loginRequiredToAccessLabel": {
+    "description": "Login required info label"
+  },
+  "editProfile": "Edit Profile",
+  "@editProfile": {
+    "description": "Edit profile feature"
+  },
+  "applyForJobs": "Apply for Jobs",
+  "@applyForJobs": {
+    "description": "Apply for jobs feature"
+  },
+  "chatWithCompanies": "Chat with Companies",
+  "@chatWithCompanies": {
+    "description": "Chat feature"
+  },
+  "viewApplicationHistory": "View Application History",
+  "@viewApplicationHistory": {
+    "description": "View application history feature"
+  },
+  "postAds": "Post Ads",
+  "@postAds": {
+    "description": "Post ads feature"
+  },
+  "profileSetting": "Profile Setting",
+  "@profileSetting": {
+    "description": "Profile setting menu item"
+  },
+  "changePassword": "Change Password",
+  "@changePassword": {
+    "description": "Change password menu item"
+  },
+  "history": "History",
+  "@history": {
+    "description": "History menu item"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout menu item"
+  },
+  "companyProfileSetting": "Company Profile Setting",
+  "@companyProfileSetting": {
+    "description": "Company profile setting menu item"
+  },
+  "applicationsReceived": "Applications Received",
+  "@applicationsReceived": {
+    "description": "Applications received menu item"
+  },
+  "loggedOutSuccessfully": "Logged out successfully",
+  "@loggedOutSuccessfully": {
+    "description": "Logout success message"
+  },
+  "logoutFailed": "Logout failed",
+  "@logoutFailed": {
+    "description": "Logout failed message"
+  },
+  "areYouSureLogout": "Are you sure to log out of\nyour account?",
+  "@areYouSureLogout": {
+    "description": "Logout confirmation message"
+  },
+  "jobOffer": "Job Offer",
+  "@jobOffer": {
+    "description": "Job offer section title"
+  },
+  "seeAll": "See All",
+  "@seeAll": {
+    "description": "See all link"
+  },
+  "failedToLoadJobs": "Failed to load jobs",
+  "@failedToLoadJobs": {
+    "description": "Failed to load jobs error"
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button text"
+  },
+  "noJobsAvailable": "No jobs available",
+  "@noJobsAvailable": {
+    "description": "No jobs message"
+  },
+  "candidates": "Candidates",
+  "@candidates": {
+    "description": "Candidates section title"
+  },
+  "failedToLoadCandidates": "Failed to load candidates",
+  "@failedToLoadCandidates": {
+    "description": "Failed to load candidates error"
+  },
+  "noCandidatesAvailable": "No candidates available",
+  "@noCandidatesAvailable": {
+    "description": "No candidates message"
+  },
+  "unknownCompany": "Unknown Company",
+  "@unknownCompany": {
+    "description": "Unknown company placeholder"
+  },
+  "salaryNotSpecified": "Salary not specified",
+  "@salaryNotSpecified": {
+    "description": "Salary not specified placeholder"
+  },
+  "professional": "Professional",
+  "@professional": {
+    "description": "Professional title placeholder"
+  },
+  "loginRequiredLabel": "Login required",
+  "@loginRequiredLabel": {
+    "description": "Login required title"
+  },
+  "pleaseLoginOrCreateAccount": "Please login or create an account to post an ad.",
+  "@pleaseLoginOrCreateAccount": {
+    "description": "Login prompt for posting"
+  },
+  "postAd": "Post Ad",
+  "@postAd": {
+    "description": "Post ad title"
+  },
+  "postAdFormComingSoon": "Post Ad form coming soon.",
+  "@postAdFormComingSoon": {
+    "description": "Post ad coming soon message"
+  },
+  "interview": "Interview",
+  "@interview": {
+    "description": "Interview screen title"
+  },
+  "interviews": "Interviews",
+  "@interviews": {
+    "description": "Interviews navigation label"
+  },
+  "recruit": "Recruit",
+  "@recruit": {
+    "description": "Recruit navigation label"
+  },
+  "pleaseLoginToContinue": "Please login to continue",
+  "@pleaseLoginToContinue": {
+    "description": "Please login message"
+  },
+  "failedToLoadInterviews": "Failed to load interviews. Please try again.",
+  "@failedToLoadInterviews": {
+    "description": "Failed to load interviews error"
+  },
+  "noInterviewsScheduled": "No interviews scheduled\nfor this day",
+  "@noInterviewsScheduled": {
+    "description": "No interviews message"
+  },
+  "physicalInterview": "Physical Interview",
+  "@physicalInterview": {
+    "description": "Physical interview type"
+  },
+  "onlineInterview": "Online Interview",
+  "@onlineInterview": {
+    "description": "Online interview type"
+  },
+  "phoneInterview": "Phone Interview",
+  "@phoneInterview": {
+    "description": "Phone interview type"
+  },
+  "notScheduled": "Not scheduled",
+  "@notScheduled": {
+    "description": "Not scheduled time placeholder"
+  },
+  "invalidTime": "Invalid time",
+  "@invalidTime": {
+    "description": "Invalid time placeholder"
+  },
+  "notifications": "notifications",
+  "@notifications": {
+    "description": "Notifications feature name"
+  },
+  "chat": "chat",
+  "@chat": {
+    "description": "Chat feature name"
+  },
+  "forgotPasswordTitle": "Forgot Password",
+  "@forgotPasswordTitle": {
+    "description": "Forgot password screen title"
+  },
+  "pleaseEnterEmailForVerification": "Please enter your email for verification the account.",
+  "@pleaseEnterEmailForVerification": {
+    "description": "Forgot password description"
+  },
+  "sendOtp": "Send OTP",
+  "@sendOtp": {
+    "description": "Send OTP button text"
+  },
+  "enterOtpCode": "Enter OTP Code",
+  "@enterOtpCode": {
+    "description": "Enter OTP code title"
+  },
+  "weSentCodeTo": "We have sent OTP code to your email",
+  "@weSentCodeTo": {
+    "description": "OTP sent message"
+  },
+  "resendCode": "Resend Code",
+  "@resendCode": {
+    "description": "Resend code link"
+  },
+  "didntReceiveCode": "Didn't receive a code?",
+  "@didntReceiveCode": {
+    "description": "Didnt receive code text"
+  },
+  "verify": "Verify",
+  "@verify": {
+    "description": "Verify button text"
+  },
+  "resetPassword": "Reset Password",
+  "@resetPassword": {
+    "description": "Reset password screen title"
+  },
+  "createNewPassword": "Create a new secure password for your account.",
+  "@createNewPassword": {
+    "description": "Reset password description"
+  },
+  "newPassword": "New Password",
+  "@newPassword": {
+    "description": "New password field label"
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password field label"
+  },
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": {
+    "description": "Password mismatch error"
+  },
+  "passwordResetSuccess": "Password reset successfully",
+  "@passwordResetSuccess": {
+    "description": "Password reset success message"
+  },
+  "pleaseEnterNewPassword": "Please enter a new password",
+  "@pleaseEnterNewPassword": {
+    "description": "New password validation error"
+  },
+  "otpVerification": "OTP Verification",
+  "@otpVerification": {
+    "description": "OTP verification screen title"
+  },
+  "verifyYourEmail": "Verify Your Email",
+  "@verifyYourEmail": {
+    "description": "Verify email title"
+  },
+  "verificationCodeSentTo": "We have sent a verification code to",
+  "@verificationCodeSentTo": {
+    "description": "Verification code sent message"
+  },
+  "pleaseEnterOtp": "Please enter the OTP code",
+  "@pleaseEnterOtp": {
+    "description": "OTP validation error"
+  },
+  "otpVerified": "OTP verified successfully",
+  "@otpVerified": {
+    "description": "OTP verified success message"
+  },
+  "invalidOtp": "Invalid OTP code",
+  "@invalidOtp": {
+    "description": "Invalid OTP error"
+  },
+  "otpResent": "OTP code resent",
+  "@otpResent": {
+    "description": "OTP resent message"
+  },
+  "weSentOtpToEmail": "We have sent an OTP code to your email.",
+  "@weSentOtpToEmail": {
+    "description": "OTP sent to email title"
+  },
+  "weSentSixDigitCode": "We have just sent you a 6-digit code via your email {email}",
+  "@weSentSixDigitCode": {
+    "description": "OTP code sent description",
+    "placeholders": {
+      "email": {
+        "type": "String",
+        "example": "test@example.com"
+      }
+    }
+  },
+  "pleaseEnterCompleteCode": "Please enter the complete 6-digit code",
+  "@pleaseEnterCompleteCode": {
+    "description": "OTP validation error"
+  },
+  "otpResentToEmail": "OTP code has been resent to your email",
+  "@otpResentToEmail": {
+    "description": "OTP resent success message"
+  },
+  "verifyOtp": "Verify OTP",
+  "@verifyOtp": {
+    "description": "Verify OTP button text"
+  },
+  "resendOtp": "Resend OTP",
+  "@resendOtp": {
+    "description": "Resend OTP button text"
+  },
+  "createNewPasswordTitle": "Create New Password",
+  "@createNewPasswordTitle": {
+    "description": "Create new password title"
+  },
+  "enterNewPasswordRemember": "Enter your new password. Remember this time!",
+  "@enterNewPasswordRemember": {
+    "description": "New password description"
+  },
+  "enterNewPassword": "Enter New Password",
+  "@enterNewPassword": {
+    "description": "New password hint"
+  },
+  "enterConfirmPassword": "Enter Confirm Password",
+  "@enterConfirmPassword": {
+    "description": "Confirm password hint"
+  },
+  "passwordMinLength": "Password must be at least 8 characters",
+  "@passwordMinLength": {
+    "description": "Password length validation error"
+  },
+  "passwordResetSuccessLogin": "Password reset successfully! Please login with your new password.",
+  "@passwordResetSuccessLogin": {
+    "description": "Password reset success message"
+  },
+  "verifyEmail": "Verify Email",
+  "@verifyEmail": {
+    "description": "Verify email title"
+  },
+  "weSentVerificationCodeTo": "We've sent a verification code to",
+  "@weSentVerificationCodeTo": {
+    "description": "Verification code sent message"
+  },
+  "emailVerifiedSuccessfully": "Email verified successfully!",
+  "@emailVerifiedSuccessfully": {
+    "description": "Email verified success message"
+  },
+  "digitalResume": "Digital Resume",
+  "@digitalResume": {
+    "description": "Digital resume menu item"
+  },
+  "failedToLoadData": "Failed to load data. Please try again.",
+  "@failedToLoadData": {
+    "description": "Generic data load error"
+  },
+  "noJobsPosted": "No jobs posted yet",
+  "@noJobsPosted": {
+    "description": "Empty jobs message for company"
+  },
+  "untitledJob": "Untitled Job",
+  "@untitledJob": {
+    "description": "Default job title placeholder"
+  },
+  "salaryTbd": "Salary TBD",
+  "@salaryTbd": {
+    "description": "Salary to be determined"
+  },
+  "applicantsCount": "{count} Applicants",
+  "@applicantsCount": {
+    "description": "Number of applicants",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "viewApplicants": "View Applicants",
+  "@viewApplicants": {
+    "description": "View applicants button"
+  },
+  "unlock": "Unlock",
+  "@unlock": {
+    "description": "Unlock candidate button"
+  },
+  "viewProfile": "View Profile",
+  "@viewProfile": {
+    "description": "View profile button"
+  },
+  "unknown": "Unknown",
+  "@unknown": {
+    "description": "Unknown name placeholder"
+  },
+  "anErrorOccurred": "An error occurred",
+  "@anErrorOccurred": {
+    "description": "Generic error message"
+  },
+  "all": "All",
+  "@all": {
+    "description": "All filter label"
+  },
+  "unlocked": "Unlocked",
+  "@unlocked": {
+    "description": "Unlocked filter label"
+  },
+  "locked": "Locked",
+  "@locked": {
+    "description": "Locked filter label"
+  },
+  "candidateUnlockedSuccessfully": "Candidate unlocked successfully",
+  "@candidateUnlockedSuccessfully": {
+    "description": "Candidate unlock success message"
+  },
+  "failedToUnlockCandidate": "Failed to unlock candidate. Please try again.",
+  "@failedToUnlockCandidate": {
+    "description": "Candidate unlock error message"
+  },
+  "noCandidatesFound": "No candidates found",
+  "@noCandidatesFound": {
+    "description": "No candidates found message"
+  },
+  "detail": "Detail",
+  "@detail": {
+    "description": "Detail button text"
+  },
+  "unlockCandidate": "Unlock Candidate",
+  "@unlockCandidate": {
+    "description": "Unlock candidate dialog title"
+  },
+  "unlockCandidateConfirmation": "Are you sure you want to unlock this candidate? A fee may be charged.",
+  "@unlockCandidateConfirmation": {
+    "description": "Unlock candidate confirmation message"
+  },
+  "fullTime": "Full Time",
+  "@fullTime": {
+    "description": "Full time job type"
+  },
+  "partTime": "Part Time",
+  "@partTime": {
+    "description": "Part time job type"
+  },
+  "remote": "Remote",
+  "@remote": {
+    "description": "Remote job type"
+  },
+  "noJobPostingsYet": "No job postings yet",
+  "@noJobPostingsYet": {
+    "description": "No job postings message"
+  },
+  "applicationsCount": "{count} apps",
+  "@applicationsCount": {
+    "description": "Number of applications short",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "editJob": "Edit Job",
+  "@editJob": {
+    "description": "Edit job screen title"
+  },
+  "createJob": "Create Job",
+  "@createJob": {
+    "description": "Create job screen title"
+  },
+  "fillIt": "Fill it",
+  "@fillIt": {
+    "description": "Form header text"
+  },
+  "jobTitle": "Job Title",
+  "@jobTitle": {
+    "description": "Job title field label"
+  },
+  "enterJobTitle": "Enter job title",
+  "@enterJobTitle": {
+    "description": "Job title field hint"
+  },
+  "salaryRange": "Salary Range",
+  "@salaryRange": {
+    "description": "Salary range field label"
+  },
+  "salaryRangeHint": "e.g. 300-500 KWD",
+  "@salaryRangeHint": {
+    "description": "Salary range field hint"
+  },
+  "selectExperienceLevel": "Select experience level",
+  "@selectExperienceLevel": {
+    "description": "Experience level dropdown hint"
+  },
+  "typeOfHiring": "Type of Hiring",
+  "@typeOfHiring": {
+    "description": "Hiring type field label"
+  },
+  "selectHiringTimeframe": "Select hiring timeframe",
+  "@selectHiringTimeframe": {
+    "description": "Hiring type dropdown hint"
+  },
+  "employmentType": "Employment Type",
+  "@employmentType": {
+    "description": "Employment type field label"
+  },
+  "selectEmploymentType": "Select employment type",
+  "@selectEmploymentType": {
+    "description": "Employment type dropdown hint"
+  },
+  "workLocation": "Work Location",
+  "@workLocation": {
+    "description": "Work location field label"
+  },
+  "selectWorkLocation": "Select work location",
+  "@selectWorkLocation": {
+    "description": "Work location dropdown hint"
+  },
+  "jobDescription": "Job Description",
+  "@jobDescription": {
+    "description": "Job description field label"
+  },
+  "writeJobDescription": "Write job description...",
+  "@writeJobDescription": {
+    "description": "Job description field hint"
+  },
+  "typeOfInterview": "Type of Interview",
+  "@typeOfInterview": {
+    "description": "Interview type field label"
+  },
+  "physical": "Physical",
+  "@physical": {
+    "description": "Physical interview type"
+  },
+  "online": "Online",
+  "@online": {
+    "description": "Online interview type"
+  },
+  "loadingMajors": "Loading majors...",
+  "@loadingMajors": {
+    "description": "Loading majors text"
+  },
+  "selectMajors": "Select majors",
+  "@selectMajors": {
+    "description": "Select majors button text"
+  },
+  "updateJob": "Update Job",
+  "@updateJob": {
+    "description": "Update job button text"
+  },
+  "pleaseEnterJobTitle": "Please enter job title",
+  "@pleaseEnterJobTitle": {
+    "description": "Job title validation error"
+  },
+  "pleaseEnterJobDescription": "Please enter job description",
+  "@pleaseEnterJobDescription": {
+    "description": "Job description validation error"
+  },
+  "jobUpdatedSuccessfully": "Job updated successfully",
+  "@jobUpdatedSuccessfully": {
+    "description": "Job update success message"
+  },
+  "jobCreatedSuccessfully": "Job created successfully",
+  "@jobCreatedSuccessfully": {
+    "description": "Job create success message"
+  },
+  "immediate": "Immediate",
+  "@immediate": {
+    "description": "Immediate hiring type"
+  },
+  "within1Month": "Within 1 Month",
+  "@within1Month": {
+    "description": "Within 1 month hiring type"
+  },
+  "within3Months": "Within 3 Months",
+  "@within3Months": {
+    "description": "Within 3 months hiring type"
+  },
+  "flexible": "Flexible",
+  "@flexible": {
+    "description": "Flexible hiring type"
+  },
+  "contract": "Contract",
+  "@contract": {
+    "description": "Contract employment type"
+  },
+  "onSite": "On-site",
+  "@onSite": {
+    "description": "On-site job type"
+  },
+  "hybrid": "Hybrid",
+  "@hybrid": {
+    "description": "Hybrid job type"
+  },
+  "jobDetails": "Job Details",
+  "@jobDetails": {
+    "description": "Job details screen title"
+  },
+  "noDescriptionProvided": "No description provided",
+  "@noDescriptionProvided": {
+    "description": "No description placeholder"
+  },
+  "notSpecified": "Not specified",
+  "@notSpecified": {
+    "description": "Not specified placeholder"
+  },
+  "active": "Active",
+  "@active": {
+    "description": "Active status label"
+  },
+  "inactive": "Inactive",
+  "@inactive": {
+    "description": "Inactive status label"
+  },
+  "applications": "{count} applications",
+  "@applications": {
+    "description": "Number of applications",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "jobSpecifications": "Job Specifications",
+  "@jobSpecifications": {
+    "description": "Job specifications section title"
+  },
+  "hiringType": "Hiring Type",
+  "@hiringType": {
+    "description": "Hiring type label"
+  },
+  "experience": "Experience",
+  "@experience": {
+    "description": "Experience label"
+  },
+  "requiredMajors": "Required Majors",
+  "@requiredMajors": {
+    "description": "Required majors section title"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Description section title"
+  },
+  "requirements": "Requirements",
+  "@requirements": {
+    "description": "Requirements section title"
+  },
+  "viewApplicantsCount": "View Applicants ({count})",
+  "@viewApplicantsCount": {
+    "description": "View applicants button with count",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "jobApplicants": "Job Applicants",
+  "@jobApplicants": {
+    "description": "Job applicants screen title"
+  },
+  "pending": "Pending",
+  "@pending": {
+    "description": "Pending status"
+  },
+  "reviewed": "Reviewed",
+  "@reviewed": {
+    "description": "Reviewed status"
+  },
+  "shortlisted": "Shortlisted",
+  "@shortlisted": {
+    "description": "Shortlisted status"
+  },
+  "rejected": "Rejected",
+  "@rejected": {
+    "description": "Rejected status"
+  },
+  "failedToLoadApplicants": "Failed to load applicants. Please try again.",
+  "@failedToLoadApplicants": {
+    "description": "Failed to load applicants error"
+  },
+  "applicantCount": "{count} Applicant",
+  "@applicantCount": {
+    "description": "Single applicant count",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "applicantCountPlural": "{count} Applicants",
+  "@applicantCountPlural": {
+    "description": "Multiple applicants count",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "noApplicantsYet": "No applicants yet",
+  "@noApplicantsYet": {
+    "description": "No applicants message"
+  },
+  "applicationsWillAppearHere": "Applications will appear here",
+  "@applicationsWillAppearHere": {
+    "description": "Applications appear here hint"
+  },
+  "searchApplicants": "Search applicants...",
+  "@searchApplicants": {
+    "description": "Search applicants hint"
+  },
+  "recently": "Recently",
+  "@recently": {
+    "description": "Recently time label"
+  },
+  "minutesAgo": "{count}m ago",
+  "@minutesAgo": {
+    "description": "Minutes ago",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "hoursAgo": "{count}h ago",
+  "@hoursAgo": {
+    "description": "Hours ago",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "dayAgo": "1 day ago",
+  "@dayAgo": {
+    "description": "One day ago"
+  },
+  "daysAgo": "{count} days ago",
+  "@daysAgo": {
+    "description": "Days ago",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  },
+  "weeksAgo": "{count}w ago",
+  "@weeksAgo": {
+    "description": "Weeks ago",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "hasCoverLetter": "Has cover letter",
+  "@hasCoverLetter": {
+    "description": "Has cover letter label"
+  },
+  "view": "View",
+  "@view": {
+    "description": "View button"
+  },
+  "job": "Job",
+  "@job": {
+    "description": "Job label"
+  },
+  "candidateProfile": "Candidate Profile",
+  "@candidateProfile": {
+    "description": "Candidate profile screen title"
+  },
+  "couldNotOpenCv": "Could not open CV",
+  "@couldNotOpenCv": {
+    "description": "Could not open CV error"
+  },
+  "resident": "Resident",
+  "@resident": {
+    "description": "Resident label"
+  },
+  "availability": "Availability",
+  "@availability": {
+    "description": "Availability label"
+  },
+  "experienceAndEducation": "Experience & Education",
+  "@experienceAndEducation": {
+    "description": "Experience and education section title"
+  },
+  "education": "Education",
+  "@education": {
+    "description": "Education label"
+  },
+  "about": "About",
+  "@about": {
+    "description": "About section title"
+  },
+  "fieldsMajors": "Fields / Majors",
+  "@fieldsMajors": {
+    "description": "Fields/majors section title"
+  },
+  "skills": "Skills",
+  "@skills": {
+    "description": "Skills section title"
+  },
+  "cvResume": "CV / Resume",
+  "@cvResume": {
+    "description": "CV/Resume section title"
+  },
+  "candidateResume": "Candidate Resume",
+  "@candidateResume": {
+    "description": "Candidate resume title"
+  },
+  "tapToViewOrDownload": "Tap to view or download",
+  "@tapToViewOrDownload": {
+    "description": "Tap to view or download hint"
+  },
+  "externalProfile": "External Profile",
+  "@externalProfile": {
+    "description": "External profile section title"
+  },
+  "upworkProfile": "Upwork Profile",
+  "@upworkProfile": {
+    "description": "Upwork profile title"
+  },
+  "viewExternalProfile": "View external profile",
+  "@viewExternalProfile": {
+    "description": "View external profile hint"
+  },
+  "profileLocked": "Profile Locked",
+  "@profileLocked": {
+    "description": "Profile locked title"
+  },
+  "unlockCandidateDescription": "Unlock this candidate to view their complete profile including:\n\n• Contact Information\n• CV / Resume\n• Skills & Summary\n• Personal Details",
+  "@unlockCandidateDescription": {
+    "description": "Unlock candidate description"
+  },
+  "sendMessage": "Send Message",
+  "@sendMessage": {
+    "description": "Send message button"
+  },
+  "scheduleInterview": "Schedule Interview",
+  "@scheduleInterview": {
+    "description": "Schedule interview screen title"
+  },
+  "invalidCandidate": "Invalid candidate",
+  "@invalidCandidate": {
+    "description": "Invalid candidate error"
+  },
+  "interviewScheduledSuccessfully": "Interview scheduled successfully!",
+  "@interviewScheduledSuccessfully": {
+    "description": "Interview scheduled success message"
+  },
+  "failedToScheduleInterview": "Failed to schedule interview",
+  "@failedToScheduleInterview": {
+    "description": "Failed to schedule interview error"
+  },
+  "jobApplication": "Job Application",
+  "@jobApplication": {
+    "description": "Job application label"
+  },
+  "contactInformation": "Contact Information",
+  "@contactInformation": {
+    "description": "Contact information section title"
+  },
+  "interviewDetails": "Interview Details",
+  "@interviewDetails": {
+    "description": "Interview details section title"
+  },
+  "typeOfInterviewLabel": "Type Of Interview",
+  "@typeOfInterviewLabel": {
+    "description": "Type of interview label"
+  },
+  "interviewDate": "Interview Date",
+  "@interviewDate": {
+    "description": "Interview date label"
+  },
+  "time": "Time",
+  "@time": {
+    "description": "Time label"
+  },
+  "meetingLink": "Meeting Link",
+  "@meetingLink": {
+    "description": "Meeting link label"
+  },
+  "interviewLocation": "Interview Location",
+  "@interviewLocation": {
+    "description": "Interview location label"
+  },
+  "enterMeetingLink": "Enter meeting link (Zoom, Google Meet, etc.)",
+  "@enterMeetingLink": {
+    "description": "Enter meeting link hint"
+  },
+  "enterInterviewLocation": "Enter interview location address",
+  "@enterInterviewLocation": {
+    "description": "Enter interview location hint"
+  },
+  "additionalNotes": "Additional Notes (Optional)",
+  "@additionalNotes": {
+    "description": "Additional notes label"
+  },
+  "additionalNotesHint": "Add any additional information for the candidate...",
+  "@additionalNotesHint": {
+    "description": "Additional notes hint"
+  },
+  "phone": "Phone",
+  "@phone": {
+    "description": "Phone interview type"
+  },
+  "applicantDetails": "Applicant Details",
+  "@applicantDetails": {
+    "description": "Applicant details screen title"
+  },
+  "applicationInfo": "Application Info",
+  "@applicationInfo": {
+    "description": "Application info section title"
+  },
+  "appliedFor": "Applied For",
+  "@appliedFor": {
+    "description": "Applied for label"
+  },
+  "appliedOn": "Applied On",
+  "@appliedOn": {
+    "description": "Applied on label"
+  },
+  "status": "Status",
+  "@status": {
+    "description": "Status label"
+  },
+  "coverLetter": "Cover Letter",
+  "@coverLetter": {
+    "description": "Cover letter section title"
+  },
+  "applicantResume": "Applicant Resume",
+  "@applicantResume": {
+    "description": "Applicant resume title"
+  },
+  "message": "Message",
+  "@message": {
+    "description": "Message button"
+  },
+  "scheduled": "scheduled",
+  "@scheduled": {
+    "description": "Scheduled label"
+  },
+  "failedToLoadMeetings": "Failed to load meetings. Please try again.",
+  "@failedToLoadMeetings": {
+    "description": "Failed to load meetings error"
+  },
+  "noInterviewsScheduledShort": "No interviews scheduled",
+  "@noInterviewsScheduledShort": {
+    "description": "No interviews message short"
+  },
+  "interviewsWillAppearHere": "Interviews for this day will appear here",
+  "@interviewsWillAppearHere": {
+    "description": "Interviews appear here hint"
+  },
+  "expectedSalary": "Expected Salary",
+  "@expectedSalary": {
+    "description": "Expected salary label"
+  },
+  "workingHours": "Working Hours",
+  "@workingHours": {
+    "description": "Working hours label"
+  },
+  "aboutCompany": "About Company",
+  "@aboutCompany": {
+    "description": "About company section title"
+  },
+  "follow": "Follow",
+  "@follow": {
+    "description": "Follow button text"
+  },
+  "readMore": "Read More",
+  "@readMore": {
+    "description": "Read more button text"
+  },
+  "readLess": "Read Less",
+  "@readLess": {
+    "description": "Read less button text"
+  },
+  "pleaseLoginToApplyForJobs": "Please login or create an account to apply for jobs.",
+  "@pleaseLoginToApplyForJobs": {
+    "description": "Login prompt for applying"
+  },
+  "profileActivationRequired": "Profile Activation Required",
+  "@profileActivationRequired": {
+    "description": "Profile activation required title"
+  },
+  "activateProfileDescription": "You need to activate your profile before applying for jobs. A small one-time activation fee is required.",
+  "@activateProfileDescription": {
+    "description": "Activate profile description"
+  },
+  "activateNow": "Activate Now",
+  "@activateNow": {
+    "description": "Activate now button text"
+  },
+  "alreadyApplied": "Already Applied",
+  "@alreadyApplied": {
+    "description": "Already applied button text"
+  },
+  "applyNow": "Apply Now",
+  "@applyNow": {
+    "description": "Apply now button text"
+  },
+  "applyThisJob": "Apply This Job?",
+  "@applyThisJob": {
+    "description": "Apply job modal title"
+  },
+  "coverLetterOptional": "Cover Letter (Optional)",
+  "@coverLetterOptional": {
+    "description": "Cover letter optional label"
+  },
+  "coverLetterHint": "Write a brief cover letter to introduce yourself...",
+  "@coverLetterHint": {
+    "description": "Cover letter hint text"
+  },
+  "submitApplication": "Submit Application",
+  "@submitApplication": {
+    "description": "Submit application button text"
+  },
+  "applicationSubmittedSuccessfully": "Application submitted successfully!",
+  "@applicationSubmittedSuccessfully": {
+    "description": "Application submitted success message"
+  },
+  "invalidJob": "Invalid job",
+  "@invalidJob": {
+    "description": "Invalid job error"
+  },
+  "pleaseLoginToApply": "Please login to apply",
+  "@pleaseLoginToApply": {
+    "description": "Please login to apply message"
+  },
+  "alreadyAppliedForJob": "You have already applied for this job.",
+  "@alreadyAppliedForJob": {
+    "description": "Already applied for job message"
+  },
+  "jobNoLongerAvailable": "This job is no longer available.",
+  "@jobNoLongerAvailable": {
+    "description": "Job no longer available message"
+  },
+  "noDescriptionAvailable": "No description available.",
+  "@noDescriptionAvailable": {
+    "description": "No description available placeholder"
+  },
+  "noCompanyDescriptionAvailable": "No company description available.",
+  "@noCompanyDescriptionAvailable": {
+    "description": "No company description available placeholder"
+  },
+  "applicantsLabel": "{count} Applicants",
+  "@applicantsLabel": {
+    "description": "Applicants count label",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "minutesAgoLabel": "{count} minutes ago",
+  "@minutesAgoLabel": {
+    "description": "Minutes ago full text",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "hoursAgoLabel": "{count} hours ago",
+  "@hoursAgoLabel": {
+    "description": "Hours ago full text",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "oneDayAgo": "1 day ago",
+  "@oneDayAgo": {
+    "description": "One day ago text"
+  },
+  "daysAgoLabel": "{count} days ago",
+  "@daysAgoLabel": {
+    "description": "Days ago full text",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  },
+  "monthsAgo": "{count} month ago",
+  "@monthsAgo": {
+    "description": "Months ago text",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "monthsAgoPlural": "{count} months ago",
+  "@monthsAgoPlural": {
+    "description": "Months ago plural text",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "interviewSummary": "Interview Summary",
+  "@interviewSummary": {
+    "description": "Interview summary screen title"
+  },
+  "location": "Location",
+  "@location": {
+    "description": "Location label"
+  },
+  "contact": "Contact",
+  "@contact": {
+    "description": "Contact label"
+  },
+  "statusLabel": "Status: {status}",
+  "@statusLabel": {
+    "description": "Status label with value",
+    "placeholders": {
+      "status": {
+        "type": "String",
+        "example": "Pending"
+      }
+    }
+  },
+  "reject": "Reject",
+  "@reject": {
+    "description": "Reject button text"
+  },
+  "acceptInterview": "Accept Interview",
+  "@acceptInterview": {
+    "description": "Accept interview button text"
+  },
+  "interviewAccepted": "Interview accepted!",
+  "@interviewAccepted": {
+    "description": "Interview accepted message"
+  },
+  "interviewRejected": "Interview rejected",
+  "@interviewRejected": {
+    "description": "Interview rejected message"
+  },
+  "failedToUpdateInterview": "Failed to update interview",
+  "@failedToUpdateInterview": {
+    "description": "Failed to update interview error"
+  },
+  "invalidDate": "Invalid date",
+  "@invalidDate": {
+    "description": "Invalid date placeholder"
+  },
+  "filterJobs": "Filter Jobs",
+  "@filterJobs": {
+    "description": "Filter jobs modal title"
+  },
+  "clearAll": "Clear All",
+  "@clearAll": {
+    "description": "Clear all filters button"
+  },
+  "majorField": "Major / Field",
+  "@majorField": {
+    "description": "Major/field filter label"
+  },
+  "loadingLocations": "Loading locations...",
+  "@loadingLocations": {
+    "description": "Loading locations text"
+  },
+  "loadingEducationLevels": "Loading education levels...",
+  "@loadingEducationLevels": {
+    "description": "Loading education levels text"
+  },
+  "loadingExperienceLevels": "Loading experience levels...",
+  "@loadingExperienceLevels": {
+    "description": "Loading experience levels text"
+  },
+  "applyFilters": "Apply Filters",
+  "@applyFilters": {
+    "description": "Apply filters button"
+  },
+  "goodMorning": "Good Morning,",
+  "@goodMorning": {
+    "description": "Good morning greeting"
+  },
+  "goodAfternoon": "Good Afternoon,",
+  "@goodAfternoon": {
+    "description": "Good afternoon greeting"
+  },
+  "goodEvening": "Good Evening,",
+  "@goodEvening": {
+    "description": "Good evening greeting"
+  },
+  "jobs": "Jobs",
+  "@jobs": {
+    "description": "Jobs label"
+  },
+  "jobsCount": "Jobs ({count})",
+  "@jobsCount": {
+    "description": "Jobs count label",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "10"
+      }
+    }
+  },
+  "noJobsFound": "No jobs found",
+  "@noJobsFound": {
+    "description": "No jobs found message"
+  },
+  "apply": "Apply",
+  "@apply": {
+    "description": "Apply button text"
+  },
+  "user": "User",
+  "@user": {
+    "description": "User default name"
+  },
+  "educationLevel": "Education Level",
+  "@educationLevel": {
+    "description": "Education level filter label"
+  },
+  "digitalResume": "Digital Resume",
+  "@digitalResume": {
+    "description": "Digital resume navigation label"
+  },
+  "searchJobs": "Search jobs...",
+  "@searchJobs": {
+    "description": "Search jobs placeholder"
+  },
+  "oldPassword": "Old Password",
+  "@oldPassword": {
+    "description": "Old password field label"
+  },
+  "pleaseEnterOldPassword": "Please enter your old password",
+  "@pleaseEnterOldPassword": {
+    "description": "Old password validation error"
+  },
+  "pleaseEnterNewPasswordField": "Please enter a new password",
+  "@pleaseEnterNewPasswordField": {
+    "description": "New password validation error"
+  },
+  "pleaseConfirmPassword": "Please confirm your new password",
+  "@pleaseConfirmPassword": {
+    "description": "Confirm password validation error"
+  },
+  "passwordChangedSuccessfully": "Password changed successfully",
+  "@passwordChangedSuccessfully": {
+    "description": "Password change success message"
+  },
+  "notAuthenticated": "Not authenticated",
+  "@notAuthenticated": {
+    "description": "Not authenticated error"
+  },
+  "confirmNewPassword": "Confirm New Password",
+  "@confirmNewPassword": {
+    "description": "Confirm new password field label"
+  },
+  "selectedFileNotFound": "Selected file not found",
+  "@selectedFileNotFound": {
+    "description": "File not found error"
+  },
+  "cvUploadedSuccessfully": "CV uploaded successfully",
+  "@cvUploadedSuccessfully": {
+    "description": "CV upload success message"
+  },
+  "uploadFailed": "Upload failed",
+  "@uploadFailed": {
+    "description": "Upload failed prefix"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Error prefix"
+  },
+  "couldNotOpenCv": "Could not open CV",
+  "@couldNotOpenCv": {
+    "description": "Could not open CV error"
+  },
+  "editDigitalResume": "Edit Digital Resume",
+  "@editDigitalResume": {
+    "description": "Edit digital resume title"
+  },
+  "personalInformation": "Personal Information",
+  "@personalInformation": {
+    "description": "Personal information section title"
+  },
+  "professionalInformation": "Professional Information",
+  "@professionalInformation": {
+    "description": "Professional information section title"
+  },
+  "nationalityLabel": "Nationality: {nationality}",
+  "@nationalityLabel": {
+    "description": "Nationality label with value",
+    "placeholders": {
+      "nationality": {
+        "type": "String",
+        "example": "Kuwait"
+      }
+    }
+  },
+  "residenceLabel": "Residence: {residence}",
+  "@residenceLabel": {
+    "description": "Residence label with value",
+    "placeholders": {
+      "residence": {
+        "type": "String",
+        "example": "Kuwait"
+      }
+    }
+  },
+  "majorsLabel": "Majors: {majors}",
+  "@majorsLabel": {
+    "description": "Majors label with value",
+    "placeholders": {
+      "majors": {
+        "type": "String",
+        "example": "Computer Science"
+      }
+    }
+  },
+  "educationLabel": "Education: {education}",
+  "@educationLabel": {
+    "description": "Education label with value",
+    "placeholders": {
+      "education": {
+        "type": "String",
+        "example": "Bachelor"
+      }
+    }
+  },
+  "experienceLabel": "Experience: {experience}",
+  "@experienceLabel": {
+    "description": "Experience label with value",
+    "placeholders": {
+      "experience": {
+        "type": "String",
+        "example": "5 years"
+      }
+    }
+  },
+  "noCvUploadedYet": "No CV uploaded yet",
+  "@noCvUploadedYet": {
+    "description": "No CV uploaded message"
+  },
+  "cvUploaded": "CV Uploaded",
+  "@cvUploaded": {
+    "description": "CV uploaded label"
+  },
+  "cvFileFormats": "PDF, DOC, DOCX (Max 10MB)",
+  "@cvFileFormats": {
+    "description": "Allowed CV file formats"
+  },
+  "additionalInfo": "Additional Info",
+  "@additionalInfo": {
+    "description": "Additional info section title"
+  },
+  "availabilityLabel": "Availability: {availability}",
+  "@availabilityLabel": {
+    "description": "Availability label with value",
+    "placeholders": {
+      "availability": {
+        "type": "String",
+        "example": "Immediately"
+      }
+    }
+  },
+  "scanHere": "Scan Here",
+  "@scanHere": {
+    "description": "Scan QR code label"
+  },
+  "professionTitle": "Profession Title",
+  "@professionTitle": {
+    "description": "Profession title field label"
+  },
+  "professionTitleHint": "e.g., UI UX Designer, Software Engineer",
+  "@professionTitleHint": {
+    "description": "Profession title field hint"
+  },
+  "address": "Address",
+  "@address": {
+    "description": "Address field label"
+  },
+  "upworkProfileUrl": "Upwork Profile URL",
+  "@upworkProfileUrl": {
+    "description": "Upwork URL field label"
+  },
+  "upworkProfileUrlHint": "e.g., uptowork.com/mycv/j.smith",
+  "@upworkProfileUrlHint": {
+    "description": "Upwork URL field hint"
+  },
+  "residenceCountry": "Residence Country",
+  "@residenceCountry": {
+    "description": "Residence country field label"
+  },
+  "majors": "Majors",
+  "@majors": {
+    "description": "Majors field label"
+  },
+  "publicProfileUrl": "Public Profile URL",
+  "@publicProfileUrl": {
+    "description": "Public profile URL field label"
+  },
+  "enterSkillHint": "Enter a skill and press Enter",
+  "@enterSkillHint": {
+    "description": "Enter skill hint"
+  },
+  "noSkillsAdded": "No skills added yet",
+  "@noSkillsAdded": {
+    "description": "No skills message"
+  },
+  "summaryDescription": "Summary/Description",
+  "@summaryDescription": {
+    "description": "Summary/description field label"
+  },
+  "saveChanges": "Save Changes",
+  "@saveChanges": {
+    "description": "Save changes button"
+  },
+  "profileUpdatedSuccessfully": "Profile updated successfully",
+  "@profileUpdatedSuccessfully": {
+    "description": "Profile update success message"
+  },
+  "errorPickingImage": "Error picking image",
+  "@errorPickingImage": {
+    "description": "Error picking image message"
+  },
+  "errorUpdatingProfile": "Error updating profile",
+  "@errorUpdatingProfile": {
+    "description": "Error updating profile message"
+  },
+  "selectLabel": "Select {label}",
+  "@selectLabel": {
+    "description": "Select dropdown label",
+    "placeholders": {
+      "label": {
+        "type": "String",
+        "example": "Nationality"
+      }
+    }
+  },
+  "clear": "Clear",
+  "@clear": {
+    "description": "Clear button"
+  },
+  "immediately": "Immediately",
+  "@immediately": {
+    "description": "Immediately availability option"
+  },
+  "within1Week": "Within 1 week",
+  "@within1Week": {
+    "description": "Within 1 week availability option"
+  },
+  "within2Weeks": "Within 2 weeks",
+  "@within2Weeks": {
+    "description": "Within 2 weeks availability option"
+  },
+  "notAvailable": "Not available",
+  "@notAvailable": {
+    "description": "Not available option"
+  },
+  "privacyPolicyTitle": "Privacy Policy – Shgul",
+  "@privacyPolicyTitle": {
+    "description": "Privacy policy main title"
+  },
+  "lastUpdated": "Last updated: {date}",
+  "@lastUpdated": {
+    "description": "Last updated date",
+    "placeholders": {
+      "date": {
+        "type": "String",
+        "example": "December 31, 2025"
+      }
+    }
+  },
+  "privacyPolicyIntro": "Shgul values and protects the privacy of every user. This Privacy Policy explains how we collect, use, store, and protect your personal information when you use our services. By accessing or using our services, you agree to the practices described in this policy.",
+  "@privacyPolicyIntro": {
+    "description": "Privacy policy introduction"
+  },
+  "section1Title": "Section 1: Information We Collect",
+  "@section1Title": {
+    "description": "Section 1 title"
+  },
+  "personalInfoTitle": "Personal Information",
+  "@personalInfoTitle": {
+    "description": "Personal information title"
+  },
+  "personalInfoList": "• Name\n• Email address\n• Phone number\n• Other account information you voluntarily provide",
+  "@personalInfoList": {
+    "description": "Personal information list"
+  },
+  "nonPersonalInfoTitle": "Non-Personal Information",
+  "@nonPersonalInfoTitle": {
+    "description": "Non-personal information title"
+  },
+  "nonPersonalInfoList": "• IP address\n• Device and browser type\n• Usage activity within the platform\n• Analytics data and system logs",
+  "@nonPersonalInfoList": {
+    "description": "Non-personal information list"
+  },
+  "section2Title": "Section 2: How We Use Information",
+  "@section2Title": {
+    "description": "Section 2 title"
+  },
+  "section2Content": "The information collected is used to:\n• Provide and improve our services\n• Process transactions and manage accounts\n• Send important notifications and updates\n• Analyze usage patterns and enhance user experience\n• Ensure security and prevent fraud\n• Comply with legal obligations",
+  "@section2Content": {
+    "description": "Section 2 content"
+  },
+  "section3Title": "Section 3: Data Protection",
+  "@section3Title": {
+    "description": "Section 3 title"
+  },
+  "section3Content": "We implement industry-standard security measures to protect your personal information. However, no method of transmission over the internet is 100% secure, and we cannot guarantee absolute security.",
+  "@section3Content": {
+    "description": "Section 3 content"
+  },
+  "section4Title": "Section 4: Your Rights",
+  "@section4Title": {
+    "description": "Section 4 title"
+  },
+  "section4Content": "You have the right to:\n• Access your personal information\n• Request correction of inaccurate data\n• Request deletion of your data\n• Object to processing of your data\n• Request data portability\n• Withdraw consent at any time",
+  "@section4Content": {
+    "description": "Section 4 content"
+  },
+  "section5Title": "Section 5: Contact Us",
+  "@section5Title": {
+    "description": "Section 5 title"
+  },
+  "section5Content": "If you have any questions about this Privacy Policy, please contact us at support@shgul.com.",
+  "@section5Content": {
+    "description": "Section 5 content"
+  },
+  "customerService": "Customer Service",
+  "@customerService": {
+    "description": "Customer service screen title"
+  },
+  "officeAddress": "Office Address",
+  "@officeAddress": {
+    "description": "Office address label"
+  },
+  "phoneSupport": "Phone Support",
+  "@phoneSupport": {
+    "description": "Phone support label"
+  },
+  "emailSupport": "Email Support",
+  "@emailSupport": {
+    "description": "Email support label"
+  },
+  "couldNotMakePhoneCall": "Could not make phone call to {number}",
+  "@couldNotMakePhoneCall": {
+    "description": "Could not make phone call error",
+    "placeholders": {
+      "number": {
+        "type": "String",
+        "example": "+1234567890"
+      }
+    }
+  },
+  "couldNotOpenEmailApp": "Could not open email app",
+  "@couldNotOpenEmailApp": {
+    "description": "Could not open email error"
+  },
+  "couldNotOpenMap": "Could not open map",
+  "@couldNotOpenMap": {
+    "description": "Could not open map error"
+  },
+  "customerServiceInquiry": "Customer Service Inquiry",
+  "@customerServiceInquiry": {
+    "description": "Email subject for customer service"
+  },
+  "changeCv": "Change CV",
+  "@changeCv": {
+    "description": "Change CV button tooltip"
+  },
+  "uploadCv": "Upload CV",
+  "@uploadCv": {
+    "description": "Upload CV button tooltip"
+  },
+  "viewCv": "View CV",
+  "@viewCv": {
+    "description": "View CV button tooltip"
+  }
+}

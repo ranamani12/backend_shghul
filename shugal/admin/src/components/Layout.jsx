@@ -5,6 +5,7 @@ import {
   IconCandidates,
   IconCompanies,
   IconDashboard,
+  IconDeletion,
   IconJobs,
   IconCountries,
   IconLookups,
@@ -36,6 +37,7 @@ const Layout = () => {
   const [collapsed, setCollapsed] = useState(() =>
     localStorage.getItem('admin_sidebar_collapsed') === 'true',
   )
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   const navItems = [
     { to: '/', label: 'Dashboard', icon: <IconDashboard /> },
@@ -44,6 +46,7 @@ const Layout = () => {
     { to: '/jobs', label: 'Jobs', icon: <IconJobs /> },
     { to: '/transactions', label: 'Transactions', icon: <IconTransactions /> },
     { to: '/activity-logs', label: 'Activity Logs', icon: <IconActivityLog /> },
+    { to: '/deletion-requests', label: 'Deletion Requests', icon: <IconDeletion /> },
     { to: '/lookups', label: 'Lookups', icon: <IconLookups /> },
     { to: '/countries', label: 'Countries', icon: <IconCountries /> },
     { to: '/settings', label: 'Settings', icon: <IconSettings /> },
@@ -89,13 +92,23 @@ const Layout = () => {
 
   return (
     <div className="app-shell">
-      <aside className={`sidebar ${collapsed ? 'collapsed' : ''}`}>
+      {/* Mobile overlay */}
+      <div
+        className={`sidebar-overlay ${mobileMenuOpen ? 'visible' : ''}`}
+        onClick={() => setMobileMenuOpen(false)}
+      />
+      <aside className={`sidebar ${collapsed ? 'collapsed' : ''} ${mobileMenuOpen ? 'mobile-open' : ''}`}>
         <div className="brand-block">
           <img className="brand-logo" src={currentLogo} alt="Shugal" />
         </div>
         <nav className="nav">
           {navItems.map((item) => (
-            <NavLink key={item.to} to={item.to} end={item.to === '/'}>
+            <NavLink
+              key={item.to}
+              to={item.to}
+              end={item.to === '/'}
+              onClick={() => setMobileMenuOpen(false)}
+            >
               <span className="nav-icon" aria-hidden="true">
                 {item.icon}
               </span>
@@ -106,8 +119,17 @@ const Layout = () => {
       </aside>
       <main className="main">
         <header className="topbar">
-          <div className="muted">
-            {adminUser?.email ? `Signed in as ${adminUser.email}` : 'Admin Console'}
+          <div className="topbar-left">
+            <button
+              className="mobile-menu-btn"
+              onClick={() => setMobileMenuOpen((prev) => !prev)}
+              title="Menu"
+            >
+              ☰
+            </button>
+            <span className="muted topbar-email">
+              {adminUser?.email ? `Signed in as ${adminUser.email}` : 'Admin Console'}
+            </span>
           </div>
           <div className="topbar-actions">
             <button
