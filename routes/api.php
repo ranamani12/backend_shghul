@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Api\AccountDeletionController;
 use App\Http\Controllers\Api\AuthController;
 use App\Http\Controllers\Api\CandidateController as CandidateApiController;
 use App\Http\Controllers\Api\CompanyController as CompanyApiController;
@@ -13,6 +14,9 @@ Route::get('jobs/{job}', [PublicController::class, 'job']);
 Route::get('candidates', [PublicController::class, 'candidates']);
 Route::get('candidates/public/{slug}', [PublicController::class, 'candidatePublic']);
 Route::get('settings', [PublicController::class, 'settings']);
+
+// Account Deletion Request (Public - no auth required)
+Route::post('account-deletion-request', [AccountDeletionController::class, 'store']);
 
 Route::prefix('auth')->group(function () {
     Route::post('register', [AuthController::class, 'register']);
